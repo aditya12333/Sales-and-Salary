@@ -13,4 +13,4 @@ Accuracy = 94%
 
 The Algorithm used is Decision Tree
 
-Accuracy = 96%
+Accuracy = 95%
