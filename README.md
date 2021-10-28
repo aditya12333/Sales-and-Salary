@@ -11,7 +11,8 @@ Accuracy = 94%
 
 ## Sale Prediction
 
-![Screenshot (82)](https://user-images.githubusercontent.com/54364376/139202068-889f99ed-868f-45f2-95fd-7e2406067369.png)
+![Screenshot (83)](https://user-images.githubusercontent.com/54364376/139202558-ffdab5e8-c296-49f4-8fee-954eff9aa029.png)
+![Screenshot (84)](https://user-images.githubusercontent.com/54364376/139202584-59df55bd-9adc-4178-b293-1b4d2a6a2fdb.png)
 
 
 The Algorithm used is Decision Tree
